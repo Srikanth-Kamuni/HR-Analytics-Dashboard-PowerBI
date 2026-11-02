@@ -1,6 +1,9 @@
 # HR Analytics Dashboard | Power BI
 
 Interactive HR analytics report for workforce composition, attrition, job satisfaction, compensation and tenure.
+# Dashboard
+<img width="1204" height="675" alt="Dashboard" src="https://github.com/user-attachments/assets/aa820932-94ac-4fcb-981d-f363bda9c3c9" />
+
 
 ## Business problem
 HR stakeholders need a consistent view of headcount and recorded attrition across departments, job roles and employee groups. This project uses Power BI to explore patterns in a cross-sectional HR dataset; it does not determine why employees leave.
